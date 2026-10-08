@@ -1,0 +1,6 @@
+Models used by this application:
+1. MediaPipe Face Landmarker task model
+2. MediaPipe Hand Landmarker task model
+
+Download them with download_models.ps1.
+The official MediaPipe hand pipeline produces 21 3D hand landmarks.
